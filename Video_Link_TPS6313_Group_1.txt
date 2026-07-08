@@ -4,5 +4,3 @@ Major: Security Technology (ST)
 Project Title : 🔐Secure LAN Chat System
 
 Code Author:AUN YI QI
-Group 1 Video Link
-https://youtu.be/Iw8QNkYXe3M
