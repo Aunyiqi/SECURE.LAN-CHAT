@@ -3,11 +3,6 @@ Subject Name: Python for Security
 Major: Security Technology (ST)
 Project Title : 🔐Secure LAN Chat System
 
-Group Members:
-1221103276 Aun Yi Qi
-1221101651 Khaw Kai Qing
-1231303122 Ng Hai Zhu
-1221103131 Anas Ahmed Hassan Ahmed
-
+Code Author:AUN YI QI
 Group 1 Video Link
 https://youtu.be/Iw8QNkYXe3M
